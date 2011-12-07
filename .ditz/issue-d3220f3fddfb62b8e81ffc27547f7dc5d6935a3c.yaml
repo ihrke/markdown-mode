@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: when creating file for link, ask whether to create it in subdir of current file
+desc: for ikiwiki integration
+type: :feature
+component: markdown-mode
+release: 
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-07 09:04:37.924654 Z
+references: []
+
+id: d3220f3fddfb62b8e81ffc27547f7dc5d6935a3c
+log_events: 
+- - 2011-12-07 09:04:38.884586 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
