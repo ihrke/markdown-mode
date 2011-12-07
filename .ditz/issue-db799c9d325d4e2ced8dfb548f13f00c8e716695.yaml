@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: test2
+desc: ""
+type: :bugfix
+component: markdown-mode
+release: 
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-07 10:34:27.774677 Z
+references: []
+
+id: db799c9d325d4e2ced8dfb548f13f00c8e716695
+log_events: 
+- - 2011-12-07 10:34:28.684591 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
