@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: when creating file, change to previous major-mode (markdown-mode, gfm-mode, ikiwki-mode)
+desc: ""
+type: :task
+component: markdown-mode
+release: 
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-07 11:47:09.384656 Z
+references: []
+
+id: 6e8761998105307c2842cbf93d9f03cf677a53dd
+log_events: 
+- - 2011-12-07 11:47:10.204595 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
