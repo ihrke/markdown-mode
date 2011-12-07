@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: fontify links correctly (check if there is a page of that name in (a), (b) or (c))
+desc: ""
+type: :bugfix
+component: markdown-mode
+release: 
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-07 15:50:12.594672 Z
+references: []
+
+id: a53fdcfb6d0ef0bf931bf7484264f7d91b62e5a2
+log_events: 
+- - 2011-12-07 15:50:13.534617 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""

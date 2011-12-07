@@ -5,8 +5,8 @@ type: :task
 component: markdown-mode
 release: 
 reporter: Matthias Ihrke <ihrke@cotopaxi>
-status: :unstarted
-disposition: 
+status: :closed
+disposition: :fixed
 creation_time: 2011-12-07 11:47:09.384656 Z
 references: []
 
@@ -15,4 +15,8 @@ log_events:
 - - 2011-12-07 11:47:10.204595 Z
   - Matthias Ihrke <ihrke@cotopaxi>
   - created
+  - ""
+- - 2011-12-07 15:49:24.144613 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - closed with disposition fixed
   - ""
