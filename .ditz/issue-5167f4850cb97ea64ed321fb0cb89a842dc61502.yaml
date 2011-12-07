@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: look for linked pages also in subdirectories
+desc: as ikiwiki does
+type: :feature
+component: markdown-mode
+release: 
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-06 14:41:09.344645 Z
+references: []
+
+id: 5167f4850cb97ea64ed321fb0cb89a842dc61502
+log_events: 
+- - 2011-12-06 14:41:10.164607 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""

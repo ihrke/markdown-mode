@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: find a good font for ikiwiki-directives
+desc: ""
+type: :task
+component: markdown-mode
+release: 
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-06 16:57:22.014651 Z
+references: []
+
+id: 69c4292f738434c9814609a448ec35b72f1f1685
+log_events: 
+- - 2011-12-06 16:57:22.774600 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
