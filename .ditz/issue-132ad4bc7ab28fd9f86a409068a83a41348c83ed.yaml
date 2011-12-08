@@ -1,0 +1,20 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: handling of non-mdwn links in ikiwiki
+desc: |-
+  in ikiwiki you can link to all sorts of files, not only other markdown-files. Currently, any link is assumed to be
+  concat'ed with .mdwn
+type: :task
+component: markdown-mode
+release: ikiwiki support
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-08 10:57:54.944630 Z
+references: []
+
+id: 132ad4bc7ab28fd9f86a409068a83a41348c83ed
+log_events: 
+- - 2011-12-08 10:57:56.684600 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
