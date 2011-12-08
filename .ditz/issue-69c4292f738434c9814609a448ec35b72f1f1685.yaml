@@ -5,8 +5,8 @@ type: :task
 component: markdown-mode
 release: ikiwiki support
 reporter: Matthias Ihrke <ihrke@cotopaxi>
-status: :unstarted
-disposition: 
+status: :closed
+disposition: :fixed
 creation_time: 2011-12-06 16:57:22.014651 Z
 references: []
 
@@ -19,4 +19,8 @@ log_events:
 - - 2011-12-08 10:48:56.364612 Z
   - Matthias Ihrke <ihrke@cotopaxi>
   - assigned to release ikiwiki support from unassigned
+  - ""
+- - 2011-12-08 11:04:18.754611 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - closed with disposition fixed
   - ""
