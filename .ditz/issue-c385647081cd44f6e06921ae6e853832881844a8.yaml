@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: currently, highlighting of [[!command]] disables title highlighting when in title
+desc: "e.g. ## Chapter Aging and long-term memory: [[!bibtex key=Zacks2005Long-Term]] ##"
+type: :bugfix
+component: markdown-mode
+release: ikiwiki support
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-08 10:59:49.394636 Z
+references: []
+
+id: c385647081cd44f6e06921ae6e853832881844a8
+log_events: 
+- - 2011-12-08 10:59:50.434643 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
