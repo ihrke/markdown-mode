@@ -3,7 +3,7 @@ title: when switching back from ikiwiki-mode, the (defun) is still replaced
 desc: ""
 type: :bugfix
 component: markdown-mode
-release: 
+release: ikiwiki support
 reporter: Matthias Ihrke <ihrke@cotopaxi>
 status: :closed
 disposition: :fixed
@@ -20,3 +20,7 @@ log_events:
   - Matthias Ihrke <ihrke@cotopaxi>
   - closed with disposition fixed
   - removed redefinition
+- - 2011-12-08 10:50:50.184611 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - assigned to release ikiwiki support from unassigned
+  - ""

@@ -3,7 +3,7 @@ title: when creating file for link, ask whether to create it in subdir of curren
 desc: for ikiwiki integration
 type: :feature
 component: markdown-mode
-release: 
+release: ikiwiki support
 reporter: Matthias Ihrke <ihrke@cotopaxi>
 status: :closed
 disposition: :fixed
@@ -20,3 +20,7 @@ log_events:
   - Matthias Ihrke <ihrke@cotopaxi>
   - closed with disposition fixed
   - ok
+- - 2011-12-08 10:48:59.644605 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - assigned to release ikiwiki support from unassigned
+  - ""

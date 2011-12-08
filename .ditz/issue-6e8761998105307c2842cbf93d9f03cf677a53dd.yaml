@@ -3,7 +3,7 @@ title: when creating file, change to previous major-mode (markdown-mode, gfm-mod
 desc: ""
 type: :task
 component: markdown-mode
-release: 
+release: ikiwiki support
 reporter: Matthias Ihrke <ihrke@cotopaxi>
 status: :closed
 disposition: :fixed
@@ -19,4 +19,8 @@ log_events:
 - - 2011-12-07 15:49:24.144613 Z
   - Matthias Ihrke <ihrke@cotopaxi>
   - closed with disposition fixed
+  - ""
+- - 2011-12-08 10:49:11.814652 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - assigned to release ikiwiki support from unassigned
   - ""

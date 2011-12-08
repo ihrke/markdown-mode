@@ -3,7 +3,7 @@ title: full fontification for ikiwiki directives
 desc: i.e., in e.g. [[!map pages="test"]], all components should be highlighted
 type: :feature
 component: markdown-mode
-release: 
+release: ikiwiki support
 reporter: Matthias Ihrke <ihrke@cotopaxi>
 status: :unstarted
 disposition: 
@@ -15,4 +15,8 @@ log_events:
 - - 2011-12-06 16:56:07.334596 Z
   - Matthias Ihrke <ihrke@cotopaxi>
   - created
+  - ""
+- - 2011-12-08 10:48:53.204600 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - assigned to release ikiwiki support from unassigned
   - ""

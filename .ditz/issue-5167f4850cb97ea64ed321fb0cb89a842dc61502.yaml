@@ -3,7 +3,7 @@ title: look for linked pages also in subdirectories
 desc: as ikiwiki does
 type: :feature
 component: markdown-mode
-release: 
+release: ikiwiki support
 reporter: Matthias Ihrke <ihrke@cotopaxi>
 status: :closed
 disposition: :fixed
@@ -19,4 +19,8 @@ log_events:
 - - 2011-12-07 15:49:38.574613 Z
   - Matthias Ihrke <ihrke@cotopaxi>
   - closed with disposition fixed
+  - ""
+- - 2011-12-08 10:48:46.604635 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - assigned to release ikiwiki support from unassigned
   - ""

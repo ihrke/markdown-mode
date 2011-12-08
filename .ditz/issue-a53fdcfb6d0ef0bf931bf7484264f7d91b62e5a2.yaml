@@ -3,7 +3,7 @@ title: fontify links correctly (check if there is a page of that name in (a), (b
 desc: ""
 type: :bugfix
 component: markdown-mode
-release: 
+release: ikiwiki support
 reporter: Matthias Ihrke <ihrke@cotopaxi>
 status: :closed
 disposition: :fixed
@@ -19,4 +19,8 @@ log_events:
 - - 2011-12-08 10:25:43.304629 Z
   - Matthias Ihrke <ihrke@cotopaxi>
   - closed with disposition fixed
+  - ""
+- - 2011-12-08 10:50:47.074605 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - assigned to release ikiwiki support from unassigned
   - ""
