@@ -5,8 +5,8 @@ type: :bugfix
 component: markdown-mode
 release: 
 reporter: Matthias Ihrke <ihrke@cotopaxi>
-status: :unstarted
-disposition: 
+status: :closed
+disposition: :fixed
 creation_time: 2011-12-08 10:27:06.604638 Z
 references: []
 
@@ -16,3 +16,7 @@ log_events:
   - Matthias Ihrke <ihrke@cotopaxi>
   - created
   - ""
+- - 2011-12-08 10:45:14.464611 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - closed with disposition fixed
+  - removed redefinition
