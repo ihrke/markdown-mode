@@ -1,0 +1,26 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: fontify links correctly (check if there is a page of that name in (a), (b) or (c))
+desc: ""
+type: :bugfix
+component: markdown-mode
+release: ikiwiki support
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :closed
+disposition: :fixed
+creation_time: 2011-12-07 15:50:12.594672 Z
+references: []
+
+id: a53fdcfb6d0ef0bf931bf7484264f7d91b62e5a2
+log_events: 
+- - 2011-12-07 15:50:13.534617 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
+- - 2011-12-08 10:25:43.304629 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - closed with disposition fixed
+  - ""
+- - 2011-12-08 10:50:47.074605 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - assigned to release ikiwiki support from unassigned
+  - ""

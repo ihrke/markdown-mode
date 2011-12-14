@@ -1,0 +1,30 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: test
+desc: ""
+type: :bugfix
+component: markdown-mode
+release: ikiwiki support
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :closed
+disposition: :fixed
+creation_time: 2011-12-08 10:32:07.314644 Z
+references: []
+
+id: ad63cbc52f40a6f1b46926ec3a38db25851ed417
+log_events: 
+- - 2011-12-08 10:32:08.064600 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
+- - 2011-12-08 10:35:04.374607 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - closed with disposition fixed
+  - ""
+- - 2011-12-08 10:35:29.844598 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - closed with disposition fixed
+  - ""
+- - 2011-12-08 10:50:53.334610 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - assigned to release ikiwiki support from unassigned
+  - ""

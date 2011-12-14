@@ -1,0 +1,16 @@
+--- !ditz.rubyforge.org,2008-03-06/project 
+name: markdown-mode
+version: "0.5"
+components: 
+- !ditz.rubyforge.org,2008-03-06/component 
+  name: markdown-mode
+releases: 
+- !ditz.rubyforge.org,2008-03-06/release 
+  name: ikiwiki support
+  status: :unreleased
+  release_time: 
+  log_events: 
+  - - 2011-12-08 10:48:19.524597 Z
+    - Matthias Ihrke <ihrke@cotopaxi>
+    - created
+    - ""

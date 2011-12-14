@@ -1,0 +1,26 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: when switching back from ikiwiki-mode, the (defun) is still replaced
+desc: ""
+type: :bugfix
+component: markdown-mode
+release: ikiwiki support
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :closed
+disposition: :fixed
+creation_time: 2011-12-08 10:27:06.604638 Z
+references: []
+
+id: 0f60088942380f380130a0b088db3bac7ad14d88
+log_events: 
+- - 2011-12-08 10:27:07.314581 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
+- - 2011-12-08 10:45:14.464611 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - closed with disposition fixed
+  - removed redefinition
+- - 2011-12-08 10:50:50.184611 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - assigned to release ikiwiki support from unassigned
+  - ""

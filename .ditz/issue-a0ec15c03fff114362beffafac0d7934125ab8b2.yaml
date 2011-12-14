@@ -1,0 +1,22 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: when switching back from ikiwiki mode, [[!command]] are not wiki links
+desc: ""
+type: :bugfix
+component: markdown-mode
+release: ikiwiki support
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :closed
+disposition: :fixed
+creation_time: 2011-12-08 11:06:48.294686 Z
+references: []
+
+id: a0ec15c03fff114362beffafac0d7934125ab8b2
+log_events: 
+- - 2011-12-08 11:06:49.444590 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
+- - 2011-12-08 11:32:45.534624 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - closed with disposition fixed
+  - ""

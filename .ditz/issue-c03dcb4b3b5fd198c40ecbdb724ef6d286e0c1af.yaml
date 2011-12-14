@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: diplay all wiki-files in dir-like buffer
+desc: ""
+type: :feature
+component: markdown-mode
+release: ikiwiki support
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-09 09:03:46.204645 Z
+references: []
+
+id: c03dcb4b3b5fd198c40ecbdb724ef6d286e0c1af
+log_events: 
+- - 2011-12-09 09:03:46.844582 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
