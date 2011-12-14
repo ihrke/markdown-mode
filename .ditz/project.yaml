@@ -14,3 +14,12 @@ releases:
     - Matthias Ihrke <ihrke@cotopaxi>
     - created
     - ""
+- !ditz.rubyforge.org,2008-03-06/release 
+  name: ikiwiki-browser
+  status: :unreleased
+  release_time: 
+  log_events: 
+  - - 2011-12-14 11:38:12.114646 Z
+    - Matthias Ihrke <ihrke@cotopaxi>
+    - created
+    - ""

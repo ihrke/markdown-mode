@@ -3,7 +3,7 @@ title: diplay all wiki-files in dir-like buffer
 desc: ""
 type: :feature
 component: markdown-mode
-release: ikiwiki support
+release: ikiwiki-browser
 reporter: Matthias Ihrke <ihrke@cotopaxi>
 status: :unstarted
 disposition: 
@@ -15,4 +15,8 @@ log_events:
 - - 2011-12-09 09:03:46.844582 Z
   - Matthias Ihrke <ihrke@cotopaxi>
   - created
+  - ""
+- - 2011-12-14 11:40:31.134623 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - assigned to release ikiwiki-browser from ikiwiki support
   - ""

@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: add recursion
+desc: ""
+type: :feature
+component: markdown-mode
+release: ikiwiki-browser
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-14 11:40:58.054647 Z
+references: []
+
+id: 5a6f5998541953ea2737a7a987d9313f1bccd931
+log_events: 
+- - 2011-12-14 11:40:58.744636 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""

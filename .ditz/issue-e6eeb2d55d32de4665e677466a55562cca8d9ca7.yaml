@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: allow <enter> to open the corresponding file
+desc: ""
+type: :feature
+component: markdown-mode
+release: ikiwiki-browser
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-14 11:41:34.394673 Z
+references: []
+
+id: e6eeb2d55d32de4665e677466a55562cca8d9ca7
+log_events: 
+- - 2011-12-14 11:41:34.644583 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""

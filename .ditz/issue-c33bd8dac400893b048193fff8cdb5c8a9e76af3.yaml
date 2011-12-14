@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: list markdown-files and corresponding directories in color
+desc: idea is to have files that have a subdirectory in a different color
+type: :feature
+component: markdown-mode
+release: ikiwiki-browser
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-14 11:39:36.174644 Z
+references: []
+
+id: c33bd8dac400893b048193fff8cdb5c8a9e76af3
+log_events: 
+- - 2011-12-14 11:39:37.424595 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
