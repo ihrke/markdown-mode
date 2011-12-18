@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: when in ikiwki-mode, use ikiwiki to render the HTML
+desc: ""
+type: :bugfix
+component: markdown-mode
+release: ikiwiki support
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-18 10:10:50.169972 Z
+references: []
+
+id: d3d7df4a9588e1a2eb34e0b40bab6e69a8bbdbe2
+log_events: 
+- - 2011-12-18 10:10:50.879957 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
