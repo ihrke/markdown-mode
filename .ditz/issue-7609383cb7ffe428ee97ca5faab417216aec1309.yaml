@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: indentation appears to be inconsistent
+desc: ""
+type: :bugfix
+component: markdown-mode
+release: 
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2011-12-19 09:18:50.121357 Z
+references: []
+
+id: 7609383cb7ffe428ee97ca5faab417216aec1309
+log_events: 
+- - 2011-12-19 09:18:51.051144 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
