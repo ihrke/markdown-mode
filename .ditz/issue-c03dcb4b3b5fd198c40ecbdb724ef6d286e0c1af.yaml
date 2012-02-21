@@ -5,8 +5,8 @@ type: :feature
 component: markdown-mode
 release: ikiwiki-browser
 reporter: Matthias Ihrke <ihrke@cotopaxi>
-status: :unstarted
-disposition: 
+status: :closed
+disposition: :fixed
 creation_time: 2011-12-09 09:03:46.204645 Z
 references: []
 
@@ -19,4 +19,8 @@ log_events:
 - - 2011-12-14 11:40:31.134623 Z
   - Matthias Ihrke <ihrke@cotopaxi>
   - assigned to release ikiwiki-browser from ikiwiki support
+  - ""
+- - 2012-02-21 19:10:53.792724 Z
+  - Matthias Ihrke <ihrke@egg>
+  - closed with disposition fixed
   - ""
