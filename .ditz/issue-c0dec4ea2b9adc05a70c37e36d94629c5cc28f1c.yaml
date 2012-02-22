@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: more than one wiki
+desc: is currently not possible
+type: :feature
+component: markdown-mode
+release: ikiwiki support
+reporter: Matthias Ihrke <ihrke@cotopaxi>
+status: :unstarted
+disposition: 
+creation_time: 2012-02-22 12:36:04.625314 Z
+references: []
+
+id: c0dec4ea2b9adc05a70c37e36d94629c5cc28f1c
+log_events: 
+- - 2012-02-22 12:36:05.715163 Z
+  - Matthias Ihrke <ihrke@cotopaxi>
+  - created
+  - ""
